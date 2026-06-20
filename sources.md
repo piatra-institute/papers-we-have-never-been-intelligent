@@ -36,11 +36,17 @@ Henrich, J. (2016). *The Secret of Our Success*. Princeton University Press. —
 
 Heyes, C. (2018). *Cognitive Gadgets: The Cultural Evolution of Thinking*. Harvard University Press. — thinking skills as culturally evolved, not innate.
 
+Hoel, E. P. (2017). When the map is better than the territory. *Entropy*, 19(5), 188. — the information-theoretic grounding of causal emergence; a macro map can beat the micro territory.
+
+Hoel, E. P., Albantakis, L., and Tononi, G. (2013). Quantifying causal emergence shows that macro can beat micro. *Proceedings of the National Academy of Sciences*, 110(49), 19790–19795. — the founding formal result that a coarse-grained scale can carry more causal power than its substrate.
+
 Hollan, J., Hutchins, E., and Kirsh, D. (2000). Distributed cognition: toward a new foundation for human-computer interaction research. *ACM Transactions on Computer-Human Interaction*, 7(2), 174–196. — programmatic statement of distributed cognition.
 
 Hutchins, E. (1995). *Cognition in the Wild*. MIT Press. — the navigation case; cognition as a property of the bridge.
 
 Kirsh, D., and Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science*, 18(4), 513–549. — action that restructures a problem rather than advancing it; scaffolding as computation.
+
+Klein, B., and Hoel, E. (2020). The emergence of informative higher scales in complex networks. *Complexity*, 2020, 8932526. — causal emergence extended to networks; macro-nodes that raise effective information.
 
 Knorr Cetina, K. (1999). *Epistemic Cultures: How the Sciences Make Knowledge*. Harvard University Press. — the machinery of fact-making and its disappearance from the fact.
 
@@ -52,11 +58,21 @@ Latour, B., and Woolgar, S. (1986). *Laboratory Life: The Construction of Scient
 
 Lave, J., and Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press. — expertise installed through participation.
 
+Levin, M. (2022). Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds. *Frontiers in Systems Neuroscience*, 16, 768201. — the TAME framework; agency and cognition as a continuum across substrates.
+
+Levin, M. (2025a). Ingressing minds: causal patterns beyond genetics and environment in natural, synthetic, and hybrid embodiments. *PsyArXiv* preprint, https://doi.org/10.31234/osf.io/5g2xj. — the Platonic-space / ingression thesis; competencies discovered, not built by selection. Preprint, not yet peer-reviewed.
+
+Levin, M. (2025b). *Free Lunches: Model Systems for Studying the Agential Gifts from the Platonic Space* [lecture], https://www.youtube.com/watch?v=K8BmMU1Tm-I. — the source for the "gift from Math, not Physics or Biology" framing; the intelligence-ratchet slide is credited on-screen to Federico Pigozzi. Talk-stage, cited as a lecture.
+
 Malafouris, L. (2013). *How Things Shape the Mind: A Theory of Material Engagement*. MIT Press. — material engagement; thought happening in clay and wheel.
 
 Netz, R. (1999). *The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History*. Cambridge University Press. — the diagram as a device that makes deduction possible.
 
 Noë, A. (2004). *Action in Perception*. MIT Press. — enactive perception.
+
+Pigozzi, F., Goldstein, A., and Levin, M. (2025). Associative conditioning in gene regulatory network models increases integrative causal emergence. *Communications Biology*, 8, 1027. — the published home of the "intelligence ratchet" phrase, stated as a hypothesized emergence-learning feedback loop; biological vs random network comparison.
+
+Pigozzi, F., and Levin, M. (2026). The causally emergent alignment hypothesis: causal emergence aligns with and predicts final reward in reinforcement learning agents. *arXiv* preprint arXiv:2605.06746. — causal emergence predicts the reward an RL agent reaches; the predictive leg of the ratchet claim.
 
 Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press. — we know more than we can tell.
 
@@ -74,4 +90,10 @@ Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard Univers
 
 Tomasello, M., Carpenter, M., Call, J., Behne, T., and Moll, H. (2005). Understanding and sharing intentions: the origins of cultural cognition. *Behavioral and Brain Sciences*, 28(5), 675–691. — shared intentionality as the enrollment mechanism.
 
+Vanchurin, V., Wolf, Y. I., Katsnelson, M. I., and Koonin, E. V. (2022). Toward a theory of evolution as multilevel learning. *Proceedings of the National Academy of Sciences*, 119(6), e2120037119. — evolution, including life's origin, framed as multilevel learning; learning as generic to dynamical matter.
+
 Varela, F. J., Thompson, E., and Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press. — enactive cognition; mind as embodied action.
+
+Walker, S. I., and Davies, P. C. W. (2013). The algorithmic origins of life. *Journal of the Royal Society Interface*, 10(79), 20120869. — origin of life as a transition in causal structure; emergent macro-causation prior to replicators.
+
+Watson, R. A., and Szathmáry, E. (2016). How can evolution learn? *Trends in Ecology and Evolution*, 31(2), 147–157. — formal equivalences between evolution and learning; learning not the exclusive trophy of selection.
