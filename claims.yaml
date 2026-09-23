@@ -1,0 +1,250 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: 80a6023b6a2f57a945cc041b218af3e8c624d6f2db77cc373520a0344502ed26
+claims:
+- id: hutchins-dc
+  kind: source
+  passage: The distributed-cognition tradition named the largest, cognitive systems spanning many people
+    and artifacts that compute what no member computes alone [@hutchins1995; @hollan2000].
+  evidence:
+    citation_id: hutchins1995
+    locator: Publisher description (Crossref abstract)
+    verified: true
+    verification_note: DOI 10.7551/mitpress/1881.001.0001; the description argues that cultural activity
+      systems such as a navigation team have cognitive properties different from those of the individuals
+      in them.
+- id: hollan-dc
+  kind: source
+  passage: The distributed-cognition tradition named the largest, cognitive systems spanning many people
+    and artifacts that compute what no member computes alone [@hutchins1995; @hollan2000].
+  evidence:
+    citation_id: hollan2000
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1145/353485.353487; the abstract proposes distributed cognition, focused
+      on whole environments of people and technologies, as a foundation for HCI.
+- id: malafouris-met
+  kind: source
+  passage: Between these sit the embodied and enactive accounts, for which thinking is an activity of
+    the whole acting body in a structured environment [@varela1991; @noe2004; @gallagher2005], and the
+    material-engagement account, for which the clay, the wheel, and the abacus are sites where thought
+    happens [@malafouris2013].
+  evidence:
+    citation_id: malafouris2013
+    locator: Publisher description (Crossref abstract)
+    verified: true
+    verification_note: DOI 10.7551/mitpress/9476.001.0001; the description presents Material Engagement
+      Theory, adding things and artifacts to the cognitive equation.
+- id: tomasello-shared
+  kind: source
+  passage: The child's brain does not contain physics; the child can be enrolled into the cumulative culture
+    that does, through the shared intentionality and high-fidelity social learning that are the specialism
+    of the human animal [@tomasello1999; @tomasello2005; @heyes2018; @donald1991].
+  evidence:
+    citation_id: tomasello2005
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1017/S0140525X05000129; the abstract identifies shared intentionality as
+      the crucial difference between human cognition and that of other species, enabling cultural cognition
+      and evolution.
+- id: kirsh-epistemic
+  kind: source
+  passage: For many advanced tasks the realizing system demonstrably exceeds the individual, in the sense
+    that the same person deprived of the notation, the instruments, or the team fails at the task outright
+    [@hutchins1995; @kirsh1994].
+  evidence:
+    citation_id: kirsh1994
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1207/s15516709cog1804_1; the abstract shows Tetris players solving problems
+      faster by epistemic actions in the world than by computation in the head.
+- id: netz-diagram
+  kind: source
+  passage: The Greek diagram is a device that makes deduction possible [@netz1999], and algebraic and
+    symbolic writing are technologies for thinking what would otherwise be unthinkable, so that the mathematician
+    is, in a strong sense, something the symbols do [@rotman2000].
+  evidence:
+    citation_id: netz1999
+    locator: Publisher description (Crossref abstract)
+    verified: true
+    verification_note: DOI 10.1017/CBO9780511543296; the description explains the emergence of the deductive
+      method from the lettered diagram and its interaction with text.
+- id: hutchins-bridge
+  kind: source
+  passage: Navigation is the case Hutchins observed directly.
+  evidence:
+    citation_id: hutchins1995
+    locator: Publisher description (Crossref abstract)
+    verified: true
+    verification_note: DOI 10.7551/mitpress/1881.001.0001; the description presents the navigation team
+      of a large ship as a cognitive and computational system.
+- id: lave-lpp
+  kind: source
+  passage: Tacit knowledge, the part of expertise that cannot be written down and must be acquired through
+    participation, is the skill of coupling, and it belongs to the person although it cannot be stated
+    [@polanyi1966; @collins2010; @lave1991; @dreyfus1992].
+  evidence:
+    citation_id: lave1991
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1017/CBO9780511815355; the OpenAlex abstract describes learning as legitimate
+      peripheral participation in communities of practice.
+- id: pigozzi2025-ce
+  kind: source
+  passage: On the published side, @pigozzi2025 report that associative conditioning raises integrative
+    causal emergence in gene-regulatory network models, and they propose a feedback loop, which they name
+    an intelligence ratchet, in which emergence improves learning and learning in turn raises emergence;
+    @pigozzi2026 find that the same measure of causal emergence predicts the final reward of reinforcement-learning
+    agents.
+  evidence:
+    citation_id: pigozzi2025
+    locator: Abstract; Discussion
+    verified: true
+    verification_note: DOI 10.1038/s42003-025-08411-2; the abstract reports increased causal emergence
+      after training in 29 biological GRNs, and the open-access text proposes a feedback loop in which
+      causal emergence improves learning, 'leading to an intelligence ratchet'.
+- id: pigozzi2026-rl
+  kind: source
+  passage: On the published side, @pigozzi2025 report that associative conditioning raises integrative
+    causal emergence in gene-regulatory network models, and they propose a feedback loop, which they name
+    an intelligence ratchet, in which emergence improves learning and learning in turn raises emergence;
+    @pigozzi2026 find that the same measure of causal emergence predicts the final reward of reinforcement-learning
+    agents.
+  evidence:
+    citation_id: pigozzi2026
+    locator: Abstract (arXiv 2605.06746)
+    verified: true
+    verification_note: The arXiv abstract states that causal emergence of RL agents was predictive of
+      final reward early in training (the Causally Emergent Alignment Hypothesis).
+- id: hoel2013-ce
+  kind: source
+  passage: Beneath this lies the earlier formal result that a coarse-grained macro description can carry
+    more causal power than the micro substrate it summarizes [@hoel2013; @hoel2017], extended to networks
+    by @klein2020, and several independent lines of work treating learning as a generic property of dynamical
+    systems in addition to a product of selection [@watson2016; @vanchurin2022], some of which place emergent
+    causal structure before the first replicators [@walker2013].
+  evidence:
+    citation_id: hoel2013
+    locator: Significance statement
+    verified: true
+    verification_note: DOI 10.1073/pnas.1314922110; the significance statement reports that effective
+      information can peak at a macro scale, quantifying causal emergence.
+- id: hoel2017-map
+  kind: source
+  passage: Beneath this lies the earlier formal result that a coarse-grained macro description can carry
+    more causal power than the micro substrate it summarizes [@hoel2013; @hoel2017], extended to networks
+    by @klein2020, and several independent lines of work treating learning as a generic property of dynamical
+    systems in addition to a product of selection [@watson2016; @vanchurin2022], some of which place emergent
+    causal structure before the first replicators [@walker2013].
+  evidence:
+    citation_id: hoel2017
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.3390/e19050188; the abstract states that a macroscale description can be
+      more informative than the microscale description.
+- id: klein2020-net
+  kind: source
+  passage: Beneath this lies the earlier formal result that a coarse-grained macro description can carry
+    more causal power than the micro substrate it summarizes [@hoel2013; @hoel2017], extended to networks
+    by @klein2020, and several independent lines of work treating learning as a generic property of dynamical
+    systems in addition to a product of selection [@watson2016; @vanchurin2022], some of which place emergent
+    causal structure before the first replicators [@walker2013].
+  evidence:
+    citation_id: klein2020
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1155/2020/8932526; the abstract reports that grouping nodes into macronodes
+      can increase effective information across real and simulated networks.
+- id: vanchurin-learn
+  kind: source
+  passage: Beneath this lies the earlier formal result that a coarse-grained macro description can carry
+    more causal power than the micro substrate it summarizes [@hoel2013; @hoel2017], extended to networks
+    by @klein2020, and several independent lines of work treating learning as a generic property of dynamical
+    systems in addition to a product of selection [@watson2016; @vanchurin2022], some of which place emergent
+    causal structure before the first replicators [@walker2013].
+  evidence:
+    citation_id: vanchurin2022
+    locator: Significance statement
+    verified: true
+    verification_note: DOI 10.1073/pnas.2120037119; the significance statement outlines a theory of evolution
+      within the mathematical framework of learning.
+- id: walker-origin
+  kind: source
+  passage: Beneath this lies the earlier formal result that a coarse-grained macro description can carry
+    more causal power than the micro substrate it summarizes [@hoel2013; @hoel2017], extended to networks
+    by @klein2020, and several independent lines of work treating learning as a generic property of dynamical
+    systems in addition to a product of selection [@watson2016; @vanchurin2022], some of which place emergent
+    causal structure before the first replicators [@walker2013].
+  evidence:
+    citation_id: walker2013
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1098/rsif.2012.0869; the abstract proposes that the emergence of life corresponds
+      to a transition in causal structure in which information gains causal efficacy.
+- id: cog-constitution
+  kind: definition
+  passage: Applied to intelligence, the same analysis yields a parallel settlement, here called the Cognitive
+    Constitution.
+  rationale: Defines the Cognitive Constitution by analogy with Latour's Modern Constitution.
+- id: compression-def
+  kind: definition
+  passage: We call the mechanism attributional compression.
+  rationale: Central definition of the paper.
+- id: four-referents
+  kind: definition
+  passage: Four referents travel under the one word.
+  rationale: Introduces the distinction among capacity, performance, realization and historical possibility.
+- id: capacity-def
+  kind: definition
+  passage: The first is capacity, what a person can reliably learn and contribute across situations.
+  rationale: Defines capacity as the object of psychometrics.
+- id: defensible-thesis
+  kind: interpretation
+  passage: 'The precise form of the thesis adds one word: we have never been intelligent alone.'
+  rationale: States the thesis in its defensible form.
+- id: levels-no-conflict
+  kind: interpretation
+  passage: These are questions about different levels, and the sciences that address them do not conflict.
+  rationale: Interpretive reconciliation of psychometrics, distributed cognition and cultural evolution.
+- id: modest-claim
+  kind: assumption
+  passage: The argument therefore relies on the modest claim, which the critics also grant.
+  rationale: The argument assumes only that realizing systems exceed individuals for many advanced tasks;
+    it sets aside the constitution thesis.
+- id: asymmetry
+  kind: interpretation
+  passage: The case of intelligence is asymmetric, because the purified pole is a person, and institutions
+    have strong and independent reasons to require persons.
+  rationale: Explains why Latour's symmetry does not transfer.
+- id: accounting
+  kind: interpretation
+  passage: The Cognitive Constitution functions as an accounting system, and what it accounts for is merit.
+  rationale: Functional explanation of the persistence of individual attribution.
+- id: free-lunch-status
+  kind: interpretation
+  passage: On the unsettled side, the strongest claims, the near-optimality of random networks and the
+    assertion that mathematics and not biology drives the ratchet, have so far been presented in talks
+    and work in progress, and the metaphysics of a literal realm from which forms ingress is contested
+    and probably unfalsifiable.
+  rationale: 'Evidential status of the free-lunch hypothesis: strongest claims presented only in talks
+    and work in progress.'
+- id: deflationary
+  kind: assumption
+  passage: Only the first reading, the precise claim, is used here.
+  rationale: The argument uses only the deflationary reading of the free-lunch hypothesis.
+- id: biology-kept
+  kind: assumption
+  passage: It does not deny biology, although Section 8 qualifies the standing of biology.
+  rationale: The thesis retains a located, unequal biological fact of enrollability.
+- id: differences-kept
+  kind: interpretation
+  passage: It does not abolish individual differences; it specifies what they are differences in.
+  rationale: Reinterprets measured variance as a purified residue.
+- id: ai-parity
+  kind: interpretation
+  passage: The parity is in the bookkeeping.
+  rationale: Scope of the comparison between human and artificial intelligence.
+- id: never-alone
+  kind: normative
+  passage: In its defensible form the thesis is that humans have never been intelligent alone.
+  rationale: Concluding thesis of the paper.

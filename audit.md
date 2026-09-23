@@ -2,6 +2,16 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 47 CSL entries. 14 matched automatically in Crossref and resolved through doi.org; hoel2017, hollan2000, sterelny2010, watson2016, henrich2016, lave1991, malafouris2013, netz1999 and varela1991 matched by hand to DOI records (subtitles restored); pigozzi2026 entered from its arXiv record (2605.06746). 22 books entered by hand from the legacy text with publisher places (existence confirmed through OpenAlex book or review records); levin2025b entered as a lecture with its URL. In-text author-year citations converted to Pandoc [@id] syntax; the legacy reference list replaced by the citeproc-rendered list (Chicago author-date).
+- No bibliographic or numerical corrections. varela1991 keeps the title-page author order (Varela, Thompson, Rosch) against the MIT Press record's order. Citeproc assigns the 2025 Levin suffixes by title, so levin2025b (lecture) renders as 2025a and levin2025a (PsyArXiv) as 2025b; the citations point to the same works as before.
+- claims.yaml: 30 claims (15 source, 4 definition, 3 assumption, 7 interpretation, 1 normative). Source claims checked against Crossref or OpenAlex abstracts, the arXiv abstract of Pigozzi and Levin 2026, and the open-access text of Pigozzi et al. 2025 (which names the "intelligence ratchet").
+- Not bound (no retrievable abstract or support beyond the record): the Latour, Knorr Cetina, Galison, Daston and Galison, Shapin, Danziger, Carson and Gould readings; Clark and Chalmers on Otto's notebook; Adams and Aizawa and Rupert's critique; Sterelny on scaffolding; Rotman; Levin's ingression framing (levin2025a, no abstract) and the lecture slide (levin2025b); Watson and Szathmáry (no abstract).
+- Flag for the author: the sentence citing Gould 1981 and Carson 2007 for the claim that measured differences "predict outcomes" cites two critics of intelligence testing for a claim they discuss rather than establish; left unchanged.
+- metadata claims_target: claim-ledger.
+
 ## 2026-09-23 — prose revision
 
 Headings now: Abstract; 1. Introduction; 2. Latour's Modern Constitution; 3. The Cognitive Constitution; 4. Capacity, Performance, Realization, and Historical Possibility; 5. Extension, Scaffolding, and Attributional Compression; 6. Six Cases of Attributional Compression; 7. Attribution as an Accounting System; 8. The Biological Floor and the Free-Lunch Hypothesis; 9. Scope and Limits; 10. Conclusion (split from the closing paragraphs of the former Section 9).

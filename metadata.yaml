@@ -6,7 +6,7 @@ created: 2026-06
 date: June 2026
 paper_dir: paper
 has_simulation: false
-claims_target: none
+claims_target: claim-ledger
 repo: git@github.com:piatra-institute/papers-we-have-never-been-intelligent.git
 github: https://github.com/piatra-institute/papers-we-have-never-been-intelligent
 status: published

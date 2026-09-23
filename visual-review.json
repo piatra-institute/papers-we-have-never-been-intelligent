@@ -1,5 +1,5 @@
 {
-  "pdf_sha256": "06d5051ab6d9d34388868384b34512b1ae72cb13df7b92c4159d5b695e0f30dd",
+  "pdf_sha256": "dcb1873c8b63b762d6d1b24be939921454bc82e80383f42dc41c3ac49d604586",
   "page_count": 13,
   "pages_inspected": [
     1,
@@ -17,5 +17,5 @@
     13
   ],
   "all_pages_inspected": true,
-  "notes": "All 13 pages inspected after the prose revision; title, abstract, Table 1, running headers and references render cleanly with no overflow or missing glyphs. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (b87af2779b3b to 06d5051ab6d9); the rendered text is byte-for-byte identical and no page was re-inspected."
+  "notes": "All 13 pages inspected after the migration; citations, Table 1 and the citeproc reference list render correctly, with no unresolved citation keys. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (7228a6f7a1b6 to dcb1873c8b63); the rendered text is byte-for-byte identical and no page was re-inspected."
 }

@@ -1,0 +1,636 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- id: adams2008
+  type: book
+  title: The Bounds of Cognition
+  author:
+  - family: Adams
+    given: Fred
+  - family: Aizawa
+    given: Kenneth
+  publisher: Blackwell
+  publisher-place: Malden, MA
+  issued:
+    date-parts:
+    - - 2008
+- id: boyd1985
+  type: book
+  title: Culture and the Evolutionary Process
+  author:
+  - family: Boyd
+    given: Robert
+  - family: Richerson
+    given: Peter J.
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1985
+- id: carson2007
+  type: book
+  title: 'The Measure of Merit: Talents, Intelligence, and Inequality in the French and American Republics,
+    1750–1940'
+  author:
+  - family: Carson
+    given: John
+  publisher: Princeton University Press
+  publisher-place: Princeton, NJ
+  issued:
+    date-parts:
+    - - 2007
+- id: clark2008
+  type: book
+  title: 'Supersizing the Mind: Embodiment, Action, and Cognitive Extension'
+  author:
+  - family: Clark
+    given: Andy
+  publisher: Oxford University Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 2008
+- id: clark1998
+  type: article-journal
+  title: The Extended Mind
+  author:
+  - given: A.
+    family: Clark
+  - given: D.
+    family: Chalmers
+  container-title: Analysis
+  volume: '58'
+  issue: '1'
+  page: 7-19
+  DOI: 10.1093/analys/58.1.7
+  issued:
+    date-parts:
+    - - 1998
+- id: collins2010
+  type: book
+  title: Tacit and Explicit Knowledge
+  author:
+  - given: Harry
+    family: Collins
+  publisher: University of Chicago Press
+  DOI: 10.7208/chicago/9780226113821.001.0001
+  issued:
+    date-parts:
+    - - 2010
+  publisher-place: Chicago
+- id: danziger1990
+  type: book
+  title: 'Constructing the Subject: Historical Origins of Psychological Research'
+  author:
+  - family: Danziger
+    given: Kurt
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  issued:
+    date-parts:
+    - - 1990
+- id: daston2007
+  type: book
+  title: Objectivity
+  author:
+  - family: Daston
+    given: Lorraine
+  - family: Galison
+    given: Peter
+  publisher: Zone Books
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 2007
+- id: donald1991
+  type: book
+  title: 'Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition'
+  author:
+  - family: Donald
+    given: Merlin
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1991
+- id: dreyfus1992
+  type: book
+  title: 'What Computers Still Can''t Do: A Critique of Artificial Reason'
+  author:
+  - family: Dreyfus
+    given: Hubert L.
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1992
+- id: gallagher2005
+  type: book
+  title: How the Body Shapes the Mind
+  author:
+  - given: Shaun
+    family: Gallagher
+  publisher: Oxford University Press
+  DOI: 10.1093/0199271941.001.0001
+  issued:
+    date-parts:
+    - - 2005
+  publisher-place: Oxford
+- id: galison1997
+  type: book
+  title: 'Image and Logic: A Material Culture of Microphysics'
+  author:
+  - family: Galison
+    given: Peter
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1997
+- id: gould1981
+  type: book
+  title: The Mismeasure of Man
+  author:
+  - family: Gould
+    given: Stephen Jay
+  publisher: W. W. Norton
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1981
+- id: hayles2017
+  type: book
+  title: 'Unthought: The Power of the Cognitive Nonconscious'
+  author:
+  - family: Hayles
+    given: N. Katherine
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 2017
+- id: henrich2016
+  type: book
+  title: 'The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species,
+    and Making Us Smarter'
+  author:
+  - given: Joseph
+    family: Henrich
+  publisher: Princeton University Press
+  DOI: 10.1515/9781400873296
+  URL: http://dx.doi.org/10.1515/9781400873296
+  issued:
+    date-parts:
+    - - 2016
+- id: heyes2018
+  type: book
+  title: 'Cognitive Gadgets: The Cultural Evolution of Thinking'
+  author:
+  - family: Heyes
+    given: Cecilia
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 2018
+- id: hoel2017
+  type: article-journal
+  title: When the Map Is Better Than the Territory
+  author:
+  - given: Erik
+    family: Hoel
+  container-title: Entropy
+  volume: '19'
+  issue: '5'
+  page: '188'
+  DOI: 10.3390/e19050188
+  URL: http://dx.doi.org/10.3390/e19050188
+  issued:
+    date-parts:
+    - - 2017
+- id: hoel2013
+  type: article-journal
+  title: Quantifying causal emergence shows that macro can beat micro
+  author:
+  - given: Erik P.
+    family: Hoel
+  - given: Larissa
+    family: Albantakis
+  - given: Giulio
+    family: Tononi
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '110'
+  issue: '49'
+  page: 19790-19795
+  DOI: 10.1073/pnas.1314922110
+  issued:
+    date-parts:
+    - - 2013
+- id: hollan2000
+  type: article-journal
+  title: 'Distributed cognition: Toward a new foundation for human-computer interaction research'
+  author:
+  - given: James
+    family: Hollan
+  - given: Edwin
+    family: Hutchins
+  - given: David
+    family: Kirsh
+  container-title: ACM Transactions on Computer-Human Interaction
+  volume: '7'
+  issue: '2'
+  page: 174-196
+  DOI: 10.1145/353485.353487
+  URL: http://dx.doi.org/10.1145/353485.353487
+  issued:
+    date-parts:
+    - - 2000
+- id: hutchins1995
+  type: book
+  title: Cognition in the Wild
+  author:
+  - given: Edwin
+    family: Hutchins
+  publisher: MIT Press
+  DOI: 10.7551/mitpress/1881.001.0001
+  issued:
+    date-parts:
+    - - 1995
+- id: kirsh1994
+  type: article-journal
+  title: On Distinguishing Epistemic from Pragmatic Action
+  author:
+  - given: David
+    family: Kirsh
+  - given: Paul
+    family: Maglio
+  container-title: Cognitive Science
+  volume: '18'
+  issue: '4'
+  page: 513-549
+  DOI: 10.1207/s15516709cog1804_1
+  issued:
+    date-parts:
+    - - 1994
+- id: klein2020
+  type: article-journal
+  title: The Emergence of Informative Higher Scales in Complex Networks
+  author:
+  - given: Brennan
+    family: Klein
+  - given: Erik
+    family: Hoel
+  container-title: Complexity
+  volume: '2020'
+  page: 8932526
+  DOI: 10.1155/2020/8932526
+  issued:
+    date-parts:
+    - - 2020
+- id: knorr1999
+  type: book
+  title: 'Epistemic Cultures: How the Sciences Make Knowledge'
+  author:
+  - family: Knorr Cetina
+    given: Karin
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1999
+- id: latour1987
+  type: book
+  title: 'Science in Action: How to Follow Scientists and Engineers Through Society'
+  author:
+  - family: Latour
+    given: Bruno
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1987
+- id: latour1993
+  type: book
+  title: We Have Never Been Modern
+  author:
+  - family: Latour
+    given: Bruno
+  translator:
+  - family: Porter
+    given: Catherine
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1993
+- id: latour1986
+  type: book
+  title: 'Laboratory Life: The Construction of Scientific Facts'
+  author:
+  - family: Latour
+    given: Bruno
+  - family: Woolgar
+    given: Steve
+  publisher: Princeton University Press
+  publisher-place: Princeton, NJ
+  issued:
+    date-parts:
+    - - 1986
+- id: lave1991
+  type: book
+  title: 'Situated Learning: Legitimate Peripheral Participation'
+  author:
+  - given: Jean
+    family: Lave
+  - given: Etienne
+    family: Wenger
+  publisher: Cambridge University Press
+  DOI: 10.1017/cbo9780511815355
+  URL: http://dx.doi.org/10.1017/CBO9780511815355
+  issued:
+    date-parts:
+    - - 1991
+- id: levin2022
+  type: article-journal
+  title: 'Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding
+    Diverse Bodies and Minds'
+  author:
+  - given: Michael
+    family: Levin
+  container-title: Frontiers in Systems Neuroscience
+  volume: '16'
+  DOI: 10.3389/fnsys.2022.768201
+  issued:
+    date-parts:
+    - - 2022
+- id: levin2025a
+  type: article
+  title: 'Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and
+    Hybrid Embodiments'
+  author:
+  - given: Michael
+    family: Levin
+  DOI: 10.31234/osf.io/5g2xj
+  issued:
+    date-parts:
+    - - 2025
+  container-title: PsyArXiv
+- id: levin2025b
+  type: speech
+  genre: Lecture
+  title: 'Free Lunches: Model Systems for Studying the Agential Gifts from the Platonic Space'
+  author:
+  - family: Levin
+    given: Michael
+  URL: https://www.youtube.com/watch?v=K8BmMU1Tm-I
+  issued:
+    date-parts:
+    - - 2025
+  note: The slide stating that the intelligence ratchet is a gift from mathematics is credited to Federico
+    Pigozzi.
+- id: malafouris2013
+  type: book
+  title: 'How Things Shape the Mind: A Theory of Material Engagement'
+  author:
+  - given: Lambros
+    family: Malafouris
+  publisher: MIT Press
+  DOI: 10.7551/mitpress/9476.001.0001
+  URL: http://dx.doi.org/10.7551/mitpress/9476.001.0001
+  issued:
+    date-parts:
+    - - 2013
+- id: netz1999
+  type: book
+  title: 'The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History'
+  author:
+  - given: Reviel
+    family: Netz
+  publisher: Cambridge University Press
+  DOI: 10.1017/cbo9780511543296
+  URL: http://dx.doi.org/10.1017/CBO9780511543296
+  issued:
+    date-parts:
+    - - 1999
+- id: noe2004
+  type: book
+  title: Action in Perception
+  author:
+  - family: Noë
+    given: Alva
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 2004
+- id: pigozzi2025
+  type: article-journal
+  title: Associative conditioning in gene regulatory network models increases integrative causal emergence
+  author:
+  - given: Federico
+    family: Pigozzi
+  - given: Adam
+    family: Goldstein
+  - given: Michael
+    family: Levin
+  container-title: Communications Biology
+  volume: '8'
+  issue: '1'
+  DOI: 10.1038/s42003-025-08411-2
+  issued:
+    date-parts:
+    - - 2025
+  page: 1027
+- id: pigozzi2026
+  type: article
+  title: 'The causally emergent alignment hypothesis: Causal emergence aligns with and predicts final
+    reward in reinforcement learning agents'
+  author:
+  - family: Pigozzi
+    given: Federico
+  - family: Levin
+    given: Michael
+  container-title: arXiv
+  number: '2605.06746'
+  DOI: 10.48550/arXiv.2605.06746
+  URL: https://arxiv.org/abs/2605.06746
+  issued:
+    date-parts:
+    - - 2026
+- id: polanyi1966
+  type: book
+  title: The Tacit Dimension
+  author:
+  - family: Polanyi
+    given: Michael
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1966
+- id: rotman2000
+  type: book
+  title: 'Mathematics as Sign: Writing, Imagining, Counting'
+  author:
+  - family: Rotman
+    given: Brian
+  publisher: Stanford University Press
+  publisher-place: Stanford, CA
+  issued:
+    date-parts:
+    - - 2000
+- id: rupert2004
+  type: article-journal
+  title: Challenges to the Hypothesis of Extended Cognition
+  author:
+  - given: Robert D.
+    family: Rupert
+  container-title: Journal of Philosophy
+  volume: '101'
+  issue: '8'
+  page: 389-428
+  DOI: 10.5840/jphil2004101826
+  issued:
+    date-parts:
+    - - 2004
+- id: shapin1994
+  type: book
+  title: 'A Social History of Truth: Civility and Science in Seventeenth-Century England'
+  author:
+  - family: Shapin
+    given: Steven
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1994
+- id: sterelny2010
+  type: article-journal
+  title: 'Minds: extended or scaffolded?'
+  author:
+  - given: Kim
+    family: Sterelny
+  container-title: Phenomenology and the Cognitive Sciences
+  volume: '9'
+  issue: '4'
+  page: 465-481
+  DOI: 10.1007/s11097-010-9174-y
+  URL: http://dx.doi.org/10.1007/s11097-010-9174-y
+  issued:
+    date-parts:
+    - - 2010
+- id: sterelny2012
+  type: book
+  title: 'The Evolved Apprentice: How Evolution Made Humans Unique'
+  author:
+  - family: Sterelny
+    given: Kim
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 2012
+- id: tomasello1999
+  type: book
+  title: The Cultural Origins of Human Cognition
+  author:
+  - family: Tomasello
+    given: Michael
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1999
+- id: tomasello2005
+  type: article-journal
+  title: 'Understanding and sharing intentions: The origins of cultural cognition'
+  author:
+  - given: Michael
+    family: Tomasello
+  - given: Malinda
+    family: Carpenter
+  - given: Josep
+    family: Call
+  - given: Tanya
+    family: Behne
+  - given: Henrike
+    family: Moll
+  container-title: Behavioral and Brain Sciences
+  volume: '28'
+  issue: '5'
+  page: 675-691
+  DOI: 10.1017/s0140525x05000129
+  issued:
+    date-parts:
+    - - 2005
+- id: vanchurin2022
+  type: article-journal
+  title: Toward a theory of evolution as multilevel learning
+  author:
+  - given: Vitaly
+    family: Vanchurin
+  - given: Yuri I.
+    family: Wolf
+  - given: Mikhail I.
+    family: Katsnelson
+  - given: Eugene V.
+    family: Koonin
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '119'
+  issue: '6'
+  DOI: 10.1073/pnas.2120037119
+  issued:
+    date-parts:
+    - - 2022
+  page: e2120037119
+- id: varela1991
+  type: book
+  title: 'The Embodied Mind: Cognitive Science and Human Experience'
+  author:
+  - given: Francisco J.
+    family: Varela
+  - given: Evan
+    family: Thompson
+  - given: Eleanor
+    family: Rosch
+  publisher: MIT Press
+  DOI: 10.7551/mitpress/6730.001.0001
+  URL: http://dx.doi.org/10.7551/mitpress/6730.001.0001
+  issued:
+    date-parts:
+    - - 1991
+- id: walker2013
+  type: article-journal
+  title: The algorithmic origins of life
+  author:
+  - given: Sara Imari
+    family: Walker
+  - given: Paul C. W.
+    family: Davies
+  container-title: Journal of The Royal Society Interface
+  volume: '10'
+  issue: '79'
+  page: '20120869'
+  DOI: 10.1098/rsif.2012.0869
+  issued:
+    date-parts:
+    - - 2013
+- id: watson2016
+  type: article-journal
+  title: How Can Evolution Learn?
+  author:
+  - given: Richard A.
+    family: Watson
+  - given: Eörs
+    family: Szathmáry
+  container-title: Trends in Ecology & Evolution
+  volume: '31'
+  issue: '2'
+  page: 147-157
+  DOI: 10.1016/j.tree.2015.11.009
+  URL: http://dx.doi.org/10.1016/j.tree.2015.11.009
+  issued:
+    date-parts:
+    - - 2016
