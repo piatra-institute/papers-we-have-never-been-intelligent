@@ -2,6 +2,14 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — prose revision
+
+Headings now: Abstract; 1. Introduction; 2. Latour's Modern Constitution; 3. The Cognitive Constitution; 4. Capacity, Performance, Realization, and Historical Possibility; 5. Extension, Scaffolding, and Attributional Compression; 6. Six Cases of Attributional Compression; 7. Attribution as an Accounting System; 8. The Biological Floor and the Free-Lunch Hypothesis; 9. Scope and Limits; 10. Conclusion (split from the closing paragraphs of the former Section 9).
+Tic counts before -> after (diag.py): rather than 10 -> 0; inline ", not X" 4 -> 0; negate-pivot 7 -> 0; "not X but Y" 14 -> 0; "the paper/this paper" 13 -> 0; exactly/precisely 5 -> 0; merely/simply 2 -> 0; worth 4 -> 1 ("a data centre's worth of compute", literal).
+Abstract rewritten to 259 words without self-reference or rhetorical opener.
+Corrections: Section 8 referred three times to "the next section" as the place that leans on the biological floor and warns against intelligence-mysticism; those passages are in Sections 4 and 9, and the cross-references now name them. Table 1 is now introduced in the text.
+Numbers: conceptual paper with no simulation; the only numerals are years and bibliographic locators, all preserved. No grid audit applicable.
+
 ## 2026-06-20 — Added the math-not-biology turn (Levin/Pigozzi)
 Scope: deepening pass prompted by Michael Levin's lecture "Free Lunches: Model Systems for Studying the Agential Gifts from the Platonic Space" and the Pigozzi-credited slide "The intelligence ratchet is a gift from Math, not from Physics or Biology."
 Decision: integrate as a new movement rather than a bolt-on. The thesis extends the paper's master move (relocate the credit one level further out, past biology itself) while also pressuring it (the paper is deflationary/Latourian; Levin is realist/Platonist). Staged the encounter and reused the paper's own §5 move: decline the Platonic metaphysics, keep the deflationary phenomenon.

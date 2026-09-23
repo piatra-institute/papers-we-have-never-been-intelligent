@@ -1,14 +1,34 @@
 slug: we-have-never-been-intelligent
 web_slug: we-have-never-been-intelligent
-title: "We Have Never Been Intelligent: The Cognitive Constitution and the Myth of the Individual Mind"
-header: "We Have Never Been Intelligent"
-created: "2026-06"        # inception month (drives YYYY/MM archive path)
-date: "June 2026"             # publication month, e.g. "May 2026" (shown on web)
+title: 'We Have Never Been Intelligent: The Cognitive Constitution and the Myth of the Individual Mind'
+header: We Have Never Been Intelligent
+created: 2026-06
+date: June 2026
 paper_dir: paper
 has_simulation: false
-claims_target: none           # results.json | claim-ledger | none
+claims_target: none
 repo: git@github.com:piatra-institute/papers-we-have-never-been-intelligent.git
 github: https://github.com/piatra-institute/papers-we-have-never-been-intelligent
-status: published             # draft | built | published
-abstract: |-
-  The title overstates on purpose, and the paper spends its length earning the qualification it needs: we have never been intelligent alone. Human organisms hold real and unequal cognitive capacities, but the performances usually offered as proof of intelligence, in mathematics, physics, law, engineering, administration, and now artificial intelligence, are rarely produced by an isolated brain. They are realized by assemblages of trained bodies, notations, instruments, collaborators, procedures, and inherited institutions, and then attributed, after the fact, to a single named person. This paper reads that attribution through Bruno Latour. Latour argued that the modern settlement works by purification, declaring a clean separation between nature and society while its laboratories proliferate the hybrids the separation forbids anyone to name. An analogous settlement governs intelligence. A Cognitive Constitution depends operationally on cognitive hybrids while representationally and normatively purifying their outputs into properties of bounded individuals, and the operation that performs the purification is what the paper calls attributional compression: collaborative production booked to a genius, an educational infrastructure booked to an examination score, a software ecosystem booked to a programmer's talent, a corpus and a data-center booked to a model. The argument keeps four things apart that the folk concept fuses, capacity and performance and realization and historical possibility, so that psychometrics, distributed cognition, and cultural evolution stop reading as rivals and start reading as descriptions of different levels. It rests on the defensible claims, that the realizing system for many advanced tasks exceeds the individual and that purification happens through observable attribution practices, and it declines the contested metaphysical claim that the notebook is literally part of the mind. A recent and contested line of work pushes the relocation to its limit, proposing that the capacity to learn is a generic affordance of mathematical structure that natural selection discovers rather than builds, so that random unselected networks already sit close to optimal for learning; if that holds, then crediting human biology for intelligence is the same compression run at the largest scale, credit assigned at every level and an author at none. The closing move is the sharp one: purification is not an error to be debugged but the accounting system of merit, which is why the individual mind survives every demonstration of its insufficiency. Intelligence names a settlement about who gets the credit, and we have been litigating it, under that name, for a long time.
+status: published
+abstract: 'Human cognitive capacities are real and unequal, yet the performances offered as evidence of
+  intelligence, in mathematics, physics, law, engineering, administration, and artificial intelligence,
+  are seldom produced by an isolated brain. They are realized by assemblages of trained bodies, notations,
+  instruments, collaborators, procedures, and inherited institutions, and are then attributed to a single
+  named person. We analyse this attribution with Bruno Latour''s account of modernity, in which a public
+  doctrine separating nature from society coexists with a practice that multiplies nature-society hybrids.
+  An analogous Cognitive Constitution governs intelligence. Institutions depend operationally on cognitive
+  hybrids and credit their outputs to bounded individuals through attributional compression, which books
+  collaborative production to a genius, an educational infrastructure to an examination score, a software
+  ecosystem to a programmer''s talent, and a corpus and a data centre to a model. Separating four referents
+  of the folk concept (capacity, performance, realization, and historical possibility) shows psychometrics,
+  distributed cognition, and cultural evolution to be accounts of different levels. The argument requires
+  only that the realizing system for many advanced tasks exceeds the individual and that purification
+  proceeds through observable attribution practices; it sets aside the thesis that artifacts are constitutive
+  parts of the mind. A contested proposal, that the capacity to learn is a generic property of mathematical
+  structure found by selection, would extend the compression to human biology. Attributional compression
+  persists because it is the accounting system of merit: examinations, prizes, wages, and liability each
+  require a single body to credit. In its defensible form the thesis is that humans have never been intelligent
+  alone.'
+web_blurb: Advanced cognitive performances are realized by assemblages of people, notations, instruments,
+  and institutions, and then credited to individuals through attributional compression, which persists
+  because examinations, prizes, wages, and liability need a single body to credit.

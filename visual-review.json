@@ -1,0 +1,21 @@
+{
+  "pdf_sha256": "06d5051ab6d9d34388868384b34512b1ae72cb13df7b92c4159d5b695e0f30dd",
+  "page_count": 13,
+  "pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "all_pages_inspected": true,
+  "notes": "All 13 pages inspected after the prose revision; title, abstract, Table 1, running headers and references render cleanly with no overflow or missing glyphs. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (b87af2779b3b to 06d5051ab6d9); the rendered text is byte-for-byte identical and no page was re-inspected."
+}
